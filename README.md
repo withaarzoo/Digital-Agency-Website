@@ -36,18 +36,18 @@ To run **Pixology** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pixology.git
+sudo git clone https://github.com/Aarzoo75/Digital-Agency-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pixology.git
+git clone https://github.com/Aarzoo75/Digital-Agency-Website.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Aarzoo75).
 
 ### License
 
