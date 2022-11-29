@@ -13,7 +13,7 @@
 
   DigiTek is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="htps://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
