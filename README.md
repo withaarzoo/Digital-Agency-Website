@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">DigiTek - Digital Agency Website</h2>
+  <h2 align="center">DigiTek - Digital Agency Website.</h2>
 
   DigiTek is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
